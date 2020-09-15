@@ -1,0 +1,4 @@
+roles:
+  service:
+    minium:1
+    maxium:2
