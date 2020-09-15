@@ -1,5 +1,3 @@
 roles.service:
-    minium:
-      1
-    maximum:
-      2
+    minium:1
+    maximum:2
