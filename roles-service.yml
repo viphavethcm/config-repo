@@ -1,5 +1,4 @@
-roles.service:
-    minium:
-      1
-    maximum:
-      2
+spring:
+  datasoure:
+    driver-class-name:
+      com.mysql.cj.jdbc.Driver
